@@ -19,4 +19,4 @@
 
 <br />
 
-Hello, I'm [Alexandre Lezón](https://link.tree/alexandrelezon), a Social Media Manager for VOST Portugal (@vostpt) and a coding noob.
+Hello, I'm [Alexandre Lezón](https://linktr.ee/alexandrelezon), a Social Media Manager for VOST Portugal (@vostpt) and a coding noob.
