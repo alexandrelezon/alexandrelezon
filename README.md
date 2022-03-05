@@ -1,16 +1,22 @@
-### Hi there, my  name is Alexandre Lezón 👋
+### Hi there, my  name is Alexandre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/alexandrelezon">
+  <img align="left" alt="Alexandre Lezón | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/alexandrelezon/">
+  <img align="left" alt="Alexandre's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://facebook.com/alexandrelezon">
+  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alexandrelezon/">
+  <img align="left" alt="Alexandre's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/alexandrelezon">
+  <img align="left" alt="Alexandre's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-<!--
-**alexandrelezon/alexandrelezon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]()
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on @vostpt.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Feel free to reach me on Twitter, at @alexandrelezon. I'm also on Facebook, Instagram and LinkedIn.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: ...
--->
+Hello, i'm [Alexandre Lezón](https://link.tree/alexandrelezon), a Social Media Manager for @vostpt and a coding enthusiast.
