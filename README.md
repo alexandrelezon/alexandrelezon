@@ -21,7 +21,7 @@
 
 Hello, I'm [Alexandre Lezón](https://github.com/alexandrelezon), a Social Media Manager for VOST Portugal (@vostpt) and a coding noob.
 
-I only know these Git commands:
+I only know these Git commands:a
 ```
 git status
 git add
