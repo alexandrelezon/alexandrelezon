@@ -6,7 +6,7 @@
   <img align="left" alt="Alexandre's Instagram" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/instagram-original.svg" />
 </a>
 <a href="https://facebook.com/alexandrelezon">
-  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/facebook-original.svg" />
+  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/instagram-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexandrelezon/">
   <img align="left" alt="Alexandre's LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/linkedin-original.svg" />
