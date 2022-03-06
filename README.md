@@ -3,7 +3,7 @@
   <img align="left" alt="Alexandre Lezón | Twitter" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/twitter-original.svg" />
 </a>
 <a href="https://www.instagram.com/alexandrelezon/">
-  <img align="left" alt="Alexandre's Instagram" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/instagram-original.svg" />
+  <img align="left" alt="Alexandre's Instagram" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/facebook-original.svg" />
 </a>
 <a href="https://facebook.com/alexandrelezon">
   <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/instagram-original.svg" />
