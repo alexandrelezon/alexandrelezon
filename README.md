@@ -20,3 +20,10 @@
 <br />
 
 Hello, I'm [Alexandre Lezón](https://linktr.ee/alexandrelezon), a Social Media Manager for VOST Portugal (@vostpt) and a coding noob.
+
+I only know these Git commands:
+```
+git status
+git add
+git commit
+```
