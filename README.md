@@ -19,7 +19,7 @@
 
 <br />
 
-Hello, I'm [Alexandre Lezón](https://github.com/alexandrelezon), a Social Media Manager for VOST Portugal (@vostpt) and a coding noob.
+Hello, I'm [Alexandre Lezón](https://github.com/alexandrelezon). I'm currently a Social Media Manager for VOST Portugal (@vostpt), an athlete, a student and a coding ~~noob~~ learner in my free time.
 
 I only know these Git commands:
 ```
